@@ -1,1 +1,2 @@
-demo.name: demo
+demo.name: demo12
+management.security.enabled: false
