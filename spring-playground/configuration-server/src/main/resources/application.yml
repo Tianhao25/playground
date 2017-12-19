@@ -6,8 +6,8 @@ spring:
       server:
         git:
           uri: https://github.sec.samsung.net/RAM7-MVSSL-Cloud/playground
-          search-paths: config/demoservice
+          search-paths: config/
           username: ross-wang
-          password: Wa*3618326
+          password: --------
 #        native:
 #          search-locations: file:///Users/ross.wang/Documents/GitHub/playground/config/demoservice
